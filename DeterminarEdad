@@ -1,0 +1,11 @@
+# Programacion Pasos
+## Dividir problema en pasos
+
+### Determinar edad
+- 1 Inicio
+- 2 Solicitar edad
+- 3 Si edad mayor de 18 ir a paso 6
+- 4 Mostrar mensaje eres menor de edad
+- 5 Fin
+- 6 Mostrar mensaje eres mayor de edad
+- 7 Fin
