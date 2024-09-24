@@ -1,4 +1,4 @@
-# ProgramacionPasos
+# Programacion Pasos
 ## Dividir problema en pasos
 
 ### Area trapecio
