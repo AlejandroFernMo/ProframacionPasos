@@ -8,6 +8,6 @@
 - 5 validar
 - 6 Si nota correcta sumar a notas
 - 7 contador ++
-- 8 Si contador no 10  volver a 2
-- 9 Sumar valores y dividir entre 10
+- 8 Si contador no 10  volver a 3
+- 9 Calcular notas / 10 
 - 10 Fin
