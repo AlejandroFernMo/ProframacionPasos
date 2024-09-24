@@ -9,5 +9,6 @@
 - 6 Si nota correcta sumar a notas
 - 7 contador ++
 - 8 Si contador no 10  volver a 3
-- 9 Calcular notas / 10 
-- 10 Fin
+- 9 Calcular notas / 10
+- 10 Mostrar promedio
+- 11 Fin
